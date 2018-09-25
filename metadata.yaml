@@ -1,11 +1,16 @@
 _repo: Byways-in-British-Archaeology_57846
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57846-h/images/cover.jpg
 creator:
   author:
     agent_name: Johnson, Walter
     gutenberg_agent_id: '49637'
     url: http://www.gutenberg.org/2009/agents/49637
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57846#Byways-in-British-Archaeology
 gutenberg_issued: '2018-09-04'
 gutenberg_type: Text
 identifiers:
